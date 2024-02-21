@@ -1,0 +1,62 @@
+.nav-container {
+    background-color: #101828;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding-right: 2em;
+
+}
+.sub-navigation{
+    display: flex;
+    width: 12.5em;
+ 
+    
+}
+.nav-image{
+    height: 1em;
+     margin-right: 2em; 
+     margin-top: 1em;
+     
+   
+    
+}
+
+.nav-text {
+    flex: 1;
+}
+.dropdown-icon{
+    height: 1em;
+    margin-top: 1em;
+    
+
+align-items: end;
+
+
+    
+}
+#support {
+    margin-top: 1.5em;
+}
+/* #dashboard {
+    background-color: red;
+} */
+.top-nav {
+    display: flex;
+    width: 12.5em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    
+}
+
+.logo-two {
+    align-items: end;
+    align-self: flex-end;
+    margin-left: 2.6em;
+    margin-bottom: 0.5em;
+    flex: 1;
+    
+}
+
+.logo {
+    flex: 1;
+}

@@ -1,0 +1,120 @@
+.nav {
+    display: flex;
+   
+    
+}
+
+.container {
+    background-color: #ececec; 
+  
+}
+
+.page {
+    
+}
+.welcome-image {
+    width: 1em;
+    height: 1em;
+    margin-top: 1em;
+    margin-left: 0.5em;
+}
+.welcome-image-two {
+    width: 1.5em;
+    height: 1.5em;
+}
+.welcome {
+    display: flex;
+    margin-top: -1em;
+}
+
+.welcome > p {
+    white-space: nowrap;
+}
+.top-nav-two {
+    padding: 1em;
+   border: 3em;
+  
+   background-color: white;
+   height: 1.2em;
+   margin-bottom: 1em;
+   
+}
+
+.side-prof {
+    display: flex;
+    margin-left: 58em;
+    margin-top: -2em;
+}
+#not{
+    padding-right: 1em;
+}
+
+.top-partners {
+
+}
+
+.second-top {
+    background-color: white;
+    margin: 0.4em;
+   
+    padding-left: 2em;
+    padding-right: 2em;
+}
+.second-top-two > img {
+    margin-left: 10em;
+    height: 1em;
+    margin-top: 1em;
+}
+
+.second-top-two > p {
+    font-weight: bold;
+    white-space: nowrap;
+}
+.second {
+    display: flex;
+    margin-top: 1em;
+}
+
+.second-top-two {
+    display: flex;
+}
+
+.but-container {
+    background-color: #ececec;
+    border-radius: 22em;
+    padding: 0.2em;
+    margin-left: -0.4em;
+    margin-right: -0.4em;
+    align-content: center;
+    padding-left: 1em;
+}
+.but-container > button {
+    border-radius: 22em; 
+   margin: 0.2em;
+   background-color: #ececec;
+   border: none;
+   font-size: 0.5em;
+   font-weight: bold;
+}
+
+.active-user-profile {
+    display: flex;
+}
+
+#tracker {
+    width: 15em;
+    height: 15em;
+}
+
+.dash {
+    margin-top: 1em;
+}
+
+.dash-two {
+    margin-top: 1em;
+    width: 26.3em;
+    height: 15em;
+}
+.third {
+    display: flex;
+}

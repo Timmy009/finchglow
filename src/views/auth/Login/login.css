@@ -1,0 +1,86 @@
+.firstBackground {
+    width: 50vw;
+    height: 100vh;
+}
+.second-background {
+    margin-top: 10em;
+    margin-left: 10em;
+}
+.container {
+    display: flex;
+
+    overflow: hidden;
+}
+
+.background-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.signup-text {
+    justify-content: center;
+
+    /* margin-top: 10em; */
+}
+
+.signup-header {
+    margin-bottom: 32px;
+}
+
+.label {
+    font-weight: bold;
+}
+.input {
+    border-radius: 0.3em;
+    padding-right: 5.2em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
+.button-login {
+    border-radius: 0.3em;
+    background-color: red;
+    padding-right: 8em;
+    padding-left: 8em;
+    color: white;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+    border: none;
+    font-size: 0.8em;
+}
+
+.existing-user {
+    text-align: center;
+    margin-top: 1em;
+}
+
+.login {
+    color: red;
+}
+.details-two {
+    margin-top: -2em;
+    text-align: center;
+    margin-left: -2em;
+    font-weight: lighter;
+    font-size: 0.8em;
+}
+
+.remember {
+    font-size: 0.5em;
+    display: flex;
+}
+.remember > p {
+    margin-left: 1em;
+}
+.days {
+    margin-right: 8em;
+}
+.forgot {
+    color: red;
+}
+.remember > img {
+    width: 2em;
+    height: 2em;
+    margin-top: 0.5em;
+}
